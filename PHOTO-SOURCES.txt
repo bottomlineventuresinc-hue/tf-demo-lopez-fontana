@@ -1,0 +1,12 @@
+PHOTO SOURCES — hs-013-lopez Lopez Electrical (Wave 3 2026-09-19 PT)
+Commercial-ok Unsplash/Pexels. Verified by opening each file. No owner stock face.
+
+hero-site.jpg — wave2/elec-panel-1 — Residential panel/breaker hero
+services-trade.jpg — wave2/elec-panel-close — Panel services
+job041-after.jpg — wave1-fix/panel3 — Clean panel after
+job041-before.jpg — CES outdoor box — Before
+job-elec-* — CES Unsplash outdoor enclosure set — Service work
+job052-after.jpg — wave2/elec-panel-1 — Organized panel
+job052-before.jpg — wave2/elec-tools — Tools staged NOT owner face
+people-* — tools/toolbox/crew — NOT owner face
+coverage-house.jpg — wave2/suburb-house — IE residential exterior
