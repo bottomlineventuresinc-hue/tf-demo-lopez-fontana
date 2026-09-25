@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Residential electrical, panels, and wiring. Across Fontana and the Inland Empire. Pedro looks at the job first and puts the price in writing.';
+            'Residential electrical, panels, and wiring in Fontana. Pedro looks at the job first and puts the price in writing.';
         }
       }
     },
